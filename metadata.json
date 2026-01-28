@@ -1,0 +1,7 @@
+{
+  "name": "YOURCIEL - Paris Visual Arts",
+  "description": "A premium Paris-based photography and videography service landing page featuring high-end aesthetics, cinematic galleries, and an AI-powered Paris mood consultant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
